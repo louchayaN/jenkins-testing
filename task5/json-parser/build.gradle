@@ -1,0 +1,6 @@
+dependencies {
+    compile project (':service')
+
+    compile "com.fasterxml.jackson.core:jackson-databind:$jacksonDatabindVersion"
+    compile "commons-io:commons-io:$apacheCommonsIOVersion"
+}

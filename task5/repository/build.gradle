@@ -1,0 +1,16 @@
+dependencies {
+    compile "org.springframework.boot:spring-boot-starter-data-jpa:$springBootVersion"
+
+    compile "org.postgresql:postgresql:$postgresqlVersion"
+    compile "com.zaxxer:HikariCP:$hikariCpVersion"
+    compile "org.hibernate:hibernate-java8:$hibernateJava8Version"
+
+    compile "javax.validation:validation-api:$javaxValidationVersion"
+    compile "org.hibernate.validator:hibernate-validator:$hibernateValidationVersion"
+    compile "org.hibernate:hibernate-entitymanager:5.3.5.Final"
+
+    testCompile "org.flywaydb:flyway-core:$flywayCoreVersion"
+    testCompile "com.opentable.components:otj-pg-embedded:$otjPgEmbeddedVersion"
+
+
+}

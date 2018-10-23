@@ -1,0 +1,8 @@
+rootProject.name = 'task5'
+
+include 'service'
+include 'web'
+include 'repository'
+include 'json-initializer'
+include 'json-parser'
+

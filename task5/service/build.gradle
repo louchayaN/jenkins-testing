@@ -1,0 +1,13 @@
+dependencies {
+    compile project (':repository')
+
+    compile "org.springframework:spring-context:$springVersion"
+
+    compile "javax.validation:validation-api:$javaxValidationVersion"
+    compile "org.hibernate.validator:hibernate-validator:$hibernateValidationVersion"
+
+    compile "org.modelmapper:modelmapper:$modelmapperVersion"
+    compile "com.fasterxml.jackson.core:jackson-databind:$jacksonDatabindVersion"
+    
+    testCompile "org.mockito:mockito-core:$mockitoCoreVersion"
+}

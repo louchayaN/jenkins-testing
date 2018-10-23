@@ -1,0 +1,51 @@
+subprojects {
+    apply plugin: 'java'
+
+    group 'com.epam.esm'
+    version '1.0-SNAPSHOT'
+
+    buildscript {
+        ext {
+            springVersion = '4.3.18.RELEASE'
+            springBootVersion = '1.5.15.RELEASE'
+
+            postgresqlVersion = '42.2.4'
+            hibernateJava8Version = '5.3.4.Final'
+            hikariCpVersion = '3.2.0'
+
+            javaxValidationVersion = '2.0.1.Final'
+            hibernateValidationVersion = '6.0.12.Final'
+
+            modelmapperVersion = '2.1.1'
+            jacksonDatabindVersion = '2.9.7'
+
+            apacheCommonsLang3Version = '3.8.1'
+            apacheCommonsIOVersion = '2.6'
+
+            securityOaothVersion='2.3.3.RELEASE'
+            securityJWTVersion='1.0.9.RELEASE'
+            flywayCoreVersion='5.1.4'
+            otjPgEmbeddedVersion='0.12.0'
+
+            junitVersion = '4.12'
+            mockitoCoreVersion='2.21.0'
+        }
+        repositories {
+            mavenCentral()
+        }
+    }
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        testCompile "junit:junit:$junitVersion"
+        testCompile "org.springframework:spring-test:$springVersion"
+        compile "org.springframework.boot:spring-boot-starter-security:$springBootVersion"
+        compile "org.springframework.security.oauth:spring-security-oauth2:$securityOaothVersion"
+    }
+}

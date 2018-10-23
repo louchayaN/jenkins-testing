@@ -1,0 +1,18 @@
+apply plugin: 'org.springframework.boot'
+
+buildscript {
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:$springBootVersion")
+    }
+}
+
+dependencies {
+    compile project(':service')
+    compile project(':json-parser')
+    compile project(':json-initializer')
+
+    compile "javax.validation:validation-api:$javaxValidationVersion"
+
+    compile "org.springframework.boot:spring-boot-starter-web:$springBootVersion"
+    compile "org.springframework.security:spring-security-jwt:$securityJWTVersion"
+}

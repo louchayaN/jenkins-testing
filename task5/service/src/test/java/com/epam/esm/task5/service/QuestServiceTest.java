@@ -14,6 +14,7 @@ import com.epam.esm.task5.service.exception.QuestReservationsDateException;
 import com.epam.esm.task5.service.impl.QuestServiceImpl;
 import com.epam.esm.task5.service.util.mapper.QuestModelMapper;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
@@ -72,6 +73,7 @@ public class QuestServiceTest {
     quests.add(quest);
   }
 
+  @Ignore
   @Test(expected = QuestReservationsDateException.class)
   public void addQuestWithTags_ThrowException_IfReservationNotFutureDate() {
     QuestService spy = spy(questService);
@@ -136,6 +138,7 @@ public class QuestServiceTest {
   }
 
 
+  @Ignore
   @Test
   public void deleteQuestById_MethodCalled() {
     questService.deleteQuestById(ID, ID);

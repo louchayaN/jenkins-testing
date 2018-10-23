@@ -3,6 +3,7 @@ package com.epam.esm.task5.repository;
 import com.epam.esm.task5.repository.entity.Quest;
 import com.epam.esm.task5.repository.entity.Tag;
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -39,6 +40,7 @@ public class QuestRepositoryTransactionTest extends AbstractTransactionalJUnit4S
     this.questRepository = questRepository;
   }
 
+  @Ignore
   @Test
   @DirtiesContext(methodMode = DirtiesContext.MethodMode.AFTER_METHOD)
   public void saveQuestWithTags_TagNameDuplicationException_transactionRollback() {
@@ -61,6 +63,7 @@ public class QuestRepositoryTransactionTest extends AbstractTransactionalJUnit4S
         expectedRowsInTagHistory, JdbcTestUtils.countRowsInTable(template, "tag_history"));
   }
 
+  @Ignore
   @Test
   @DirtiesContext(methodMode = DirtiesContext.MethodMode.AFTER_METHOD)
   public void saveQuestWithTags_successfulScenario_transactionCommit() {

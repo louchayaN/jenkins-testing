@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.opentable.components:otj-pg-embedded:0.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.opentable.components/otj-pg-embedded/0.12.0/f356fc3cdb0226bcc17ad057c42c8f1d58763217/otj-pg-embedded-0.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.opentable.components/otj-pg-embedded/0.12.0/be5312351d8fb8d81b3a93cacc1d544fdd1329c7/otj-pg-embedded-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

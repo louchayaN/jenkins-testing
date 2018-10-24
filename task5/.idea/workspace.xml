@@ -1,0 +1,2238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3babc93b-afb4-454b-aa1f-628504479bbf" name="Default" comment="Code was refactored">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/test/java/com/epam/esm/task5/repository/QuestRepositoryTransactionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/test/java/com/epam/esm/task5/repository/QuestRepositoryTransactionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/QuestServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/QuestServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/ReservationServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/ReservationServiceTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/parser/.gradle/" />
+    <ignored path="$PROJECT_DIR$/parser/build/" />
+    <ignored path="$PROJECT_DIR$/parser/out/" />
+    <ignored path="$PROJECT_DIR$/repository/.gradle/" />
+    <ignored path="$PROJECT_DIR$/repository/build/" />
+    <ignored path="$PROJECT_DIR$/repository/out/" />
+    <ignored path="$PROJECT_DIR$/service/.gradle/" />
+    <ignored path="$PROJECT_DIR$/service/build/" />
+    <ignored path="$PROJECT_DIR$/service/out/" />
+    <ignored path="$PROJECT_DIR$/web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web/build/" />
+    <ignored path="$PROJECT_DIR$/web/out/" />
+    <ignored path="$PROJECT_DIR$/json-initializer/.gradle/" />
+    <ignored path="$PROJECT_DIR$/json-initializer/build/" />
+    <ignored path="$PROJECT_DIR$/json-initializer/out/" />
+    <ignored path="$PROJECT_DIR$/json-parser/.gradle/" />
+    <ignored path="$PROJECT_DIR$/json-parser/build/" />
+    <ignored path="$PROJECT_DIR$/json-parser/out/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ReservationServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/ReservationServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuestServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/QuestServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>task3</find>
+      <find>jacksonDatabindVersion</find>
+      <find>join</find>
+      <find>start</find>
+      <find>Modi</find>
+      <find>concurr</find>
+      <find>nextNode</find>
+      <find>forEach</find>
+      <find>Modific</find>
+      <find>set</find>
+      <find>add</find>
+      <find>pool-8-thread-1_1_1539268985749_3.json</find>
+      <find>pool-8-thread-1</find>
+      <find>pool-6-thread-1_1_1539270004181_0.json</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Java\mentoring\ESM-program-tasks\task5\repository</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Java\Soft\gradle-4.9" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.9" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="task5" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="task5" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":json-initializer" />
+                <option name="path" value="$PROJECT_DIR$/json-initializer" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":json-parser" />
+                <option name="path" value="$PROJECT_DIR$/json-parser" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":repository" />
+                <option name="path" value="$PROJECT_DIR$/repository" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":service" />
+                <option name="path" value="$PROJECT_DIR$/service" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":web" />
+                <option name="path" value="$PROJECT_DIR$/web" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'task5'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'task5'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'task5'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'task5'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'task5'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'task5' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'task5'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'task5'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'task5'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':json-initializer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':json-initializer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':json-initializer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':json-initializer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':json-initializer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':json-initializer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':json-initializer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':json-initializer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':json-initializer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-initializer" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':json-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':json-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':json-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':json-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':json-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':json-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':json-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':json-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':json-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/json-parser" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':repository'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':repository'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':repository'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':repository'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':repository'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':repository'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':repository'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':repository'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':repository'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/repository" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':service'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':service'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':service'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/service" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="12322321225322" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2612049083" />
+        <entry key="$PROJECT_DIR$/json-initializer/build.gradle" value="408672218" />
+        <entry key="$PROJECT_DIR$/json-parser/build.gradle" value="3950831167" />
+        <entry key="$PROJECT_DIR$/parser/build.gradle" value="1259032337" />
+        <entry key="$PROJECT_DIR$/repository/build.gradle" value="735639018" />
+        <entry key="$PROJECT_DIR$/service/build.gradle" value="2513508978" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="4104378439" />
+        <entry key="$PROJECT_DIR$/web/build.gradle" value="3735278125" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/json-initializer">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/json-initializer" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/json-parser">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/json-parser" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/parser">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/parser" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/repository">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/repository" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/service">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/service" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/web">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.15.RELEASE/73650a07fc38f16abbff4a4ea6b755fdf1c165c3/spring-boot-gradle-plugin-1.5.15.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.15.RELEASE/9fc035a2255e9b41645286250f704ad19df11fad/spring-boot-loader-tools-1.5.15.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.18.RELEASE/4acbce682c3dfe38181d57b7e0792e2cc21e4f77/spring-core-4.3.18.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/web" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="task5" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/announce" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/antlr" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/base-services" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/base-services-groovy" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/build-cache" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/build-cache-http" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/build-comparison" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/build-init" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/build-option" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/cli" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/code-quality" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/composite-builds" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/core" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/core-api" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/dependency-management" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/diagnostics" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/ear" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/ide" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/ide-native" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/ide-play" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/installation-beacon" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/internal-android-performance-testing" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/internal-integ-testing" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/internal-performance-testing" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/internal-testing" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/ivy" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/jacoco" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/javascript" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/jvm-services" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/language-groovy" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/language-java" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/language-jvm" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/language-native" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/language-scala" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/launcher" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/logging" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/maven" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/messaging" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/model-core" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/model-groovy" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/native" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/osgi" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/persistent-cache" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/platform-base" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/platform-jvm" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/platform-native" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/platform-play" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/plugin-development" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/plugin-use" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/plugins" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/process-services" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/publish" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/reporting" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/resources" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/resources-gcs" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/resources-http" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/resources-s3" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/resources-sftp" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/scala" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/signing" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/test-kit" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/testing-base" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/testing-junit-platform" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/testing-jvm" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/testing-native" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/tooling-api" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/tooling-api-builders" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/version-control" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/workers" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/src/wrapper" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/ant-1.9.11.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-base-services-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-base-services-groovy-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-build-cache-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-build-option-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-cli-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-core-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-core-api-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-docs-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-installation-beacon-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-jvm-services-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-kotlin-dsl-0.18.4.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-launcher-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-logging-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-messaging-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-model-core-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-model-groovy-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-native-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-persistent-cache-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-process-services-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-resources-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-runtime-api-info-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-tooling-api-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/gradle-wrapper-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/groovy-all-2.4.12.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-announce-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-antlr-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-build-cache-http-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-build-comparison-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-build-init-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-code-quality-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-composite-builds-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-dependency-management-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-diagnostics-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-ear-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-ide-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-ide-native-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-ide-play-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-ivy-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-jacoco-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-javascript-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-language-groovy-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-language-java-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-language-jvm-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-language-native-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-language-scala-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-maven-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-osgi-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-platform-base-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-platform-jvm-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-platform-native-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-platform-play-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-plugin-development-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-plugin-use-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-plugins-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-publish-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-reporting-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-resources-gcs-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-resources-http-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-resources-s3-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-resources-sftp-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-scala-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-signing-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-test-kit-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-testing-base-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-testing-jvm-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-testing-native-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-version-control-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/gradle-workers-4.9.jar" />
+                  <option value="$PROJECT_DIR$/../../../Soft/gradle-4.9/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../task3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/QuestRepository.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/InitializerUtilStarter.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/lStarter.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/LStarter.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserManager.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/json_files_parser.properties" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/TestDataConfig.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/DataConfig.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/DataConfig.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileUtil.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/exception/InitializerPropertiesException.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/InitializerProperties.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/JsonFilesInitializer.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/Starter.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/dto/InitializerProperties.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorStarter.java" />
+        <option value="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/CountQuestsSpecification.java" />
+        <option value="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/CountQuestsbySearchCriteriaSpecification.java" />
+        <option value="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/CountAllQuestsSpecification.java" />
+        <option value="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/impl/QuestRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/dto/ParserProperties.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/exception/ParserPropertiesException.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/config/ParserConfig.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/QuestValidation.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/util/FileUtil.java" />
+        <option value="$PROJECT_DIR$/json-initializer/build.gradle" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/dto/InitializerPropertiesDTO.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/QuestGenerator.java" />
+        <option value="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/entity/Quest.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/QuestValidator.java" />
+        <option value="$PROJECT_DIR$/json-parser/build.gradle" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/util/mapper/QuestModelMapper.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/ParserStarter.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/parser.properties" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorTaskManager.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserTaskManager.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/config/InitializerConfig.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorTask.java" />
+        <option value="$PROJECT_DIR$/json-initializer/src/main/resources/initializer.properties" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/impl/QuestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/exception/DBConstraintException.java" />
+        <option value="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserTask.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/epam/esm/task5/web/SpringBootWebApplicationRunner.java" />
+        <option value="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/GetQuestsBySearchCriteriaSpecification.java" />
+        <option value="$PROJECT_DIR$/repository/build/reports/tests/test/classes/com.epam.esm.task5.repository.QuestRepositoryTransactionTest.html" />
+        <option value="$PROJECT_DIR$/repository/src/test/java/com/epam/esm/task5/repository/QuestRepositoryTransactionTest.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/QuestServiceTest.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/ReservationServiceTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-53" />
+    <option name="y" value="29" />
+    <option name="width" value="1700" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="task5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task5" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task5" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task5" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SONARLINT_ANALYSIS_RESULTS_SPLIT_PROPORTION" value="0.50062346" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="JsonMappingException&#9;PSI&#9;JAVA://com.fasterxml.jackson.databind.JsonMappingException&#10;longAdd&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;lock&#9;PSI&#9;JAVA://java.util.concurrent.locks.Lock&#10;arra&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java&#10;atomicRefer&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;atomicRefernce&#9;null&#9;null&#10;atomicLong&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicLong&#10;co&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;HashM&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/java/util/HashMap.class&#10;ConcurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task1-quest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.epam.esm.task5.parser.exception" />
+      <recent name="com.epam.esm.task5.initializer.exception" />
+      <recent name="com.epam.esm.task5.initializer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.esm.task5.parser" />
+      <recent name="com.epam.esm.task5.initializer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\mentoring\ESM-program-tasks\task5\json-initializer\src\main\resources" />
+      <recent name="C:\Java\mentoring\ESM-program-tasks\task5\json-parser\src\main\resources" />
+      <recent name="C:\Java\mentoring\ESM-program-tasks\task5\web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in service_test (2)">
+    <configuration name="FileGeneratorStarter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.esm.task5.initializer.FileGeneratorStarter" />
+      <module name="json-initializer_main" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.esm.task5.initializer.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in service_test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in service_test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in service_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="parser" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="SpringBootWebApplicationRunner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.epam.esm.task5.web.SpringBootWebApplicationRunner" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="Starter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="json-initializer_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.epam.esm.task5.initializer.FileGeneratorStarter" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FileGeneratorStarter" />
+      <item itemvalue="Spring Boot.SpringBootWebApplicationRunner" />
+      <item itemvalue="Spring Boot.Starter" />
+      <item itemvalue="JUnit.All in service_test" />
+      <item itemvalue="JUnit.All in service_test (1)" />
+      <item itemvalue="JUnit.All in service_test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in service_test (2)" />
+        <item itemvalue="JUnit.All in service_test (1)" />
+        <item itemvalue="JUnit.All in service_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3babc93b-afb4-454b-aa1f-628504479bbf" name="Default" comment="" />
+      <created>1538053497578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538053497578</updated>
+      <workItem from="1538053500814" duration="671000" />
+      <workItem from="1538054578584" duration="8096000" />
+      <workItem from="1538124267046" duration="9100000" />
+      <workItem from="1538136004591" duration="10015000" />
+      <workItem from="1538383219018" duration="11640000" />
+      <workItem from="1538397644841" duration="8171000" />
+      <workItem from="1538406737510" duration="34000" />
+      <workItem from="1538469692347" duration="24026000" />
+      <workItem from="1538556477349" duration="21498000" />
+      <workItem from="1538642384820" duration="14282000" />
+      <workItem from="1538657410977" duration="13291000" />
+      <workItem from="1538730232506" duration="5599000" />
+      <workItem from="1538985653390" duration="19037000" />
+      <workItem from="1539008963460" duration="40000" />
+      <workItem from="1539009047213" duration="2803000" />
+      <workItem from="1539072194393" duration="19921000" />
+      <workItem from="1539154428367" duration="11095000" />
+      <workItem from="1539247702914" duration="17562000" />
+      <workItem from="1539594024855" duration="2253000" />
+      <workItem from="1539688889484" duration="2414000" />
+      <workItem from="1540215718508" duration="681000" />
+      <workItem from="1540292037849" duration="3565000" />
+      <workItem from="1540376980873" duration="1422000" />
+    </task>
+    <task id="LOCAL-00001" summary="Json initializer and parser modules were created">
+      <created>1538063127745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538063127745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Batching was added">
+      <created>1538147498901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538147498901</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Time delay to parser was added. Time delay scheduling of initializer was changed">
+      <created>1538406620980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538406620980</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Showing of utility work result was added">
+      <created>1538498401777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538498401777</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Logger was added. Validation of properties file was added">
+      <created>1538582032040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538582032040</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Quest validation was extended. DTO with parser properties was created. Code was refactored">
+      <created>1538672892284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538672892284</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initializer test utility 'stopper' was added. Format of logs was changed">
+      <created>1539011868854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539011868854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Code was refactored">
+      <created>1539096425559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539096425559</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_service_test - 2018.10.23 at 14h 59m 56s.xml">
+      <configuration name="All in service_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_service_test_(1) - 2018.10.23 at 15h 02m 33s.xml">
+      <configuration name="All in service_test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_service_test_(2) - 2018.10.23 at 15h 04m 52s.xml">
+      <configuration name="All in service_test (2)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="207216000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3294621" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="SonarQube" order="15" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3536036" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.30855855" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5518018" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.44256756" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35085574" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.46283785" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.17603911" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32995495" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3873874" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Json initializer and parser modules were created" />
+    <MESSAGE value="Batching was added" />
+    <MESSAGE value="Time delay to parser was added. Time delay scheduling of initializer was changed" />
+    <MESSAGE value="Showing of utility work result was added" />
+    <MESSAGE value="Logger was added. Validation of properties file was added" />
+    <MESSAGE value="Quest validation was extended. DTO with parser properties was created. Code was refactored" />
+    <MESSAGE value="Initializer test utility 'stopper' was added. Format of logs was changed" />
+    <MESSAGE value="Code was refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code was refactored" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/parser/src/main/java/com/epam/esm/task5/parser/JSONFilesParser.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/atomic/LongAdder.java</url>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="74" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>executor.scheduleWithFixedDelay(
+        new JsonFileParserTaskManager(executorService, questService, config),
+        WITHOUT_DELAY_ON_START,
+        (long) (config.getScanDelay()),
+        TimeUnit.MILLISECONDS)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>questRepository.addQuests(quests)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>executor.isTerminated()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>executor.isShutdown()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(executor.isTerminated()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileGeneratorTask.getCycleCount()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>filesPerFolder * filesWithInvalidJsonFormatPercent</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>filesPerFolder * filesWithInvalidJsonFormatPercent / 100</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Exception e</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/sql/Timestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8152">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-initializer/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-parser/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/util/mapper/QuestModelMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="110" column="3" selection-start-line="110" selection-start-column="3" selection-end-line="110" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3134">
+          <caret line="3623" column="31" selection-start-line="3623" selection-start-column="31" selection-end-line="3623" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="323" column="71" lean-forward="true" selection-start-line="323" selection-start-column="71" selection-end-line="323" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/java/util/HashMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="2251" column="21" lean-forward="true" selection-start-line="2251" selection-start-column="21" selection-end-line="2251" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="98" column="62" selection-start-line="98" selection-start-column="55" selection-end-line="98" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="146" column="36" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="318" lean-forward="true" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="458" column="67" selection-start-line="458" selection-start-column="64" selection-end-line="458" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/locks/StampedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="881" column="16" selection-start-line="881" selection-start-column="16" selection-end-line="881" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="209" column="12" selection-start-line="209" selection-start-column="12" selection-end-line="209" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/atomic/LongAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#7290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/atomic/DoubleAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/config/InitializerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="84" column="76" selection-start-line="84" selection-start-column="76" selection-end-line="84" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/ParserStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/impl/QuestRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15657">
+          <caret line="956" column="18" selection-start-line="956" selection-start-column="18" selection-end-line="956" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/parser.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/83113901bc2a377d698ccea35ad842786f37c6ad/jackson-mapper-asl-1.9.13-sources.jar!/org/codehaus/jackson/map/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30413">
+          <caret line="1820" column="17" selection-start-line="1820" selection-start-column="17" selection-end-line="1820" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.7/478a76e0ca46b25648abce6ad4858cde5e8488ec/jackson-core-2.9.7-sources.jar!/com/fasterxml/jackson/core/type/TypeReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-initializer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.7/26d2e8a615ae6d766bbaed952a9cc286f6860faf/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="3155" column="16" selection-start-line="3155" selection-start-column="16" selection-end-line="3155" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorTaskManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1059">
+          <caret line="152" column="47" selection-start-line="152" selection-start-column="47" selection-end-line="152" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-initializer/src/main/resources/initializer.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/QuestValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserTaskManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.11.2/48264b5cd9206472c8ad6a0442c8acfcff1188e6/jackson-databind-2.8.11.2-sources.jar!/com/fasterxml/jackson/databind/JsonMappingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/exception/DBConstraintException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/impl/QuestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="78" column="39" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/webapp.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="1733" column="162" selection-start-line="1733" selection-start-column="124" selection-end-line="1733" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/epam/esm/task5/web/controller/QuestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="60" column="3" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="60" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/searchcriteria/QuestSearchCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/epam/esm/task5/web/SpringBootWebApplicationRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/GetQuestsBySearchCriteriaSpecification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/build/reports/tests/test/classes/com.epam.esm.task5.repository.QuestRepositoryTransactionTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/src/test/java/com/epam/esm/task5/repository/QuestRepositoryTransactionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/QuestServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/ReservationServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33079433" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ESM-program-tasks-task5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33079433" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

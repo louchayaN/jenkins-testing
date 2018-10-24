@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.esm.task5.service.ReservationServiceTest" tests="6" skipped="4" failures="0" errors="0" timestamp="2018-10-24T10:31:13" hostname="EPBYMINW8115" time="0.083">
+  <properties/>
+  <testcase name="addReservation_ThrowException_IfQuestByIdNotFound" classname="com.epam.esm.task5.service.ReservationServiceTest" time="0.075"/>
+  <testcase name="addReservation_ThrowException_IfQuestReservedOnThisTime" classname="com.epam.esm.task5.service.ReservationServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="getUserReservations_ReturnPaginationWithList_IfNotZeroReservationCount" classname="com.epam.esm.task5.service.ReservationServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addReservation_ThrowException_IfQuestNotAvailableForReservationThisDate" classname="com.epam.esm.task5.service.ReservationServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="isQuestReservedOnThisTime_MethodCalled" classname="com.epam.esm.task5.service.ReservationServiceTest" time="0.007"/>
+  <testcase name="getUserReservations_ReturnPaginationWithEmptyList_IfZeroReservationCount" classname="com.epam.esm.task5.service.ReservationServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

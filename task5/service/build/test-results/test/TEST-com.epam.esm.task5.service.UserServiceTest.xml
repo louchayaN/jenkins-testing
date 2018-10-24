@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.esm.task5.service.UserServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-10-24T10:31:13" hostname="EPBYMINW8115" time="0.045">
+  <properties/>
+  <testcase name="loadUserByUsername_ThrowException_IfUserNotFound" classname="com.epam.esm.task5.service.UserServiceTest" time="0.026"/>
+  <testcase name="loadUserByUsername_MethodCalled" classname="com.epam.esm.task5.service.UserServiceTest" time="0.006"/>
+  <testcase name="signUp_ThrowException_IfUsernameExists" classname="com.epam.esm.task5.service.UserServiceTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

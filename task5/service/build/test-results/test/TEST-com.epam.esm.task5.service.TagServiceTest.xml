@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.esm.task5.service.TagServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-10-24T10:31:13" hostname="EPBYMINW8115" time="0.075">
+  <properties/>
+  <testcase name="getTagById_MethodCalled" classname="com.epam.esm.task5.service.TagServiceTest" time="0.044"/>
+  <testcase name="isTagNameExists_MethodCalled" classname="com.epam.esm.task5.service.TagServiceTest" time="0.001"/>
+  <testcase name="addTag_MethodCalled" classname="com.epam.esm.task5.service.TagServiceTest" time="0.002"/>
+  <testcase name="getTagsBySearchCriteria_GetTopMethodCalled_IfCostCriteria" classname="com.epam.esm.task5.service.TagServiceTest" time="0.002"/>
+  <testcase name="addTag_ThrowException_IfTagNameExists" classname="com.epam.esm.task5.service.TagServiceTest" time="0.022"/>
+  <testcase name="getTagsBySearchCriteria_ReturnPaginationWithTagList_IfNotZeroTagCount" classname="com.epam.esm.task5.service.TagServiceTest" time="0.002"/>
+  <testcase name="deleteTagById_MethodCalled" classname="com.epam.esm.task5.service.TagServiceTest" time="0.001"/>
+  <testcase name="getTagsBySearchCriteria_ReturnPaginationWithEmptyList_IfZeroTagCount" classname="com.epam.esm.task5.service.TagServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

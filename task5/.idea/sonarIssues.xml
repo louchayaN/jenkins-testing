@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/DataConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorStarter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorTaskManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileGeneratorThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/FileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/InitializerProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/InitializerUtilStarter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/JsonFilesInitialiser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/JsonFilesInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/LStarter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/QuestGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/Starter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/config/InitializerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/dto/InitializerProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/dto/InitializerPropertiesDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/exception/InitializerPropertiesException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/lStarter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/java/com/epam/esm/task5/initializer/util/FileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-initializer/src/main/resources/initializer.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/DataConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JSONParserManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFileParserTaskManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/JsonFilesParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/ParserStarter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/QuestValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/QuestValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/config/ParserConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/dto/ParserProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/dto/ParserPropertiesDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/json-parser/src/main/java/com/epam/esm/task5/parser/exception/ParserPropertiesException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/logs/webapp.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/parser/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/parser/src/main/java/com/epam/esm/task3/parser/JSONFilesParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/parser/src/main/java/com/epam/esm/task5/parser/JSONFilesParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/parser/src/main/java/com/epam/esm/task5/parser/ParserConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/build/reports/tests/test/classes/com.epam.esm.task5.repository.QuestRepositoryTransactionTest.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/QuestRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/config/DataConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/entity/Quest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/impl/QuestRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/searchcriteria/QuestSearchCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/CountAllQuestsSpecification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/CountQuestsSpecification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/CountQuestsbySearchCriteriaSpecification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/main/java/com/epam/esm/task5/repository/specification/quest/GetQuestsBySearchCriteriaSpecification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/test/java/com/epam/esm/task5/repository/QuestRepositoryTransactionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/repository/src/test/java/com/epam/esm/task5/repository/TestDataConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/ReservationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/dto/quest/QuestDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/exception/DBConstraintException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/impl/QuestServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/impl/ReservationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/main/java/com/epam/esm/task5/service/util/mapper/QuestModelMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/QuestServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service/src/test/java/com/epam/esm/task5/service/ReservationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/java/com/epam/esm/task3/web/SpringBootWebApplicationRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/java/com/epam/esm/task5/web/SpringBootWebApplicationRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/resources/json_files_parser.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/resources/parser.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/src/main/resources/parsing.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

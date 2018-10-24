@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.esm.task5.service.QuestServiceTest" tests="7" skipped="2" failures="0" errors="0" timestamp="2018-10-24T10:31:12" hostname="EPBYMINW8115" time="0.75">
+  <properties/>
+  <testcase name="getQuestsWithTagsBySearchCriteria_ReturnPaginationWithEmptyList_IfZeroQuestCount" classname="com.epam.esm.task5.service.QuestServiceTest" time="0.653"/>
+  <testcase name="getQuestsWithTagsBySearchCriteria_ReturnPaginationWithList_IfNotZeroQuestCount" classname="com.epam.esm.task5.service.QuestServiceTest" time="0.02"/>
+  <testcase name="getQuestWithTagsById_MethodCalled" classname="com.epam.esm.task5.service.QuestServiceTest" time="0.012"/>
+  <testcase name="isQuestIdExists_MethodCalled" classname="com.epam.esm.task5.service.QuestServiceTest" time="0.004"/>
+  <testcase name="deleteQuestById_MethodCalled" classname="com.epam.esm.task5.service.QuestServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addQuestWithTags_ThrowException_IfReservationNotFutureDate" classname="com.epam.esm.task5.service.QuestServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addQuestWithTags_ThrowException_IfStartReservationDateAfterItsEnd" classname="com.epam.esm.task5.service.QuestServiceTest" time="0.059"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -12,10 +12,6 @@ target/
 
 #gradle
 .editorconfig
-.gradle/
-gradlew
-gradlew.*
-gradle-wrapper.*
 build/
 out/
 

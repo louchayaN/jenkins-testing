@@ -48,4 +48,9 @@ subprojects {
         compile "org.springframework.boot:spring-boot-starter-security:$springBootVersion"
         compile "org.springframework.security.oauth:spring-security-oauth2:$securityOaothVersion"
     }
+
+    task wrapper(type: Wrapper) {
+        gradleVersion = '4.9'
+    }
+
 }
